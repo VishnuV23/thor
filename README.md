@@ -1,3 +1,3 @@
 # thor
 
-author = <Virat>
+author = Virat
