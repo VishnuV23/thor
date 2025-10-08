@@ -1,1 +1,3 @@
 # thor
+
+author = <Virat>
